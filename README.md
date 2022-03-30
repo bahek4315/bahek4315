@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bahek4315
 - 👀 I’m interested in applying for a job in Frontend Development
 - 🌱 I’m currently learning React
-- 📫 How to reach me
+- 📫 How to reach me //
      telegram: @BAHEK4315
      email: bahek4315@yandex.ru
 
